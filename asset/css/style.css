@@ -1,0 +1,138 @@
+/* Your styles here */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap");
+body {
+  width: 450px;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+h1,
+h2,
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: bold;
+}
+.h1 {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+header {
+  background-color: black;
+  text-align: center;
+  padding-block: 50px;
+}
+header img {
+  width: 150px;
+}
+.header {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  text-align: center;
+  padding-block: 50px;
+  padding-inline: 50px;
+  margin-bottom: 70px;
+  margin-top: 0;
+}
+.header p {
+  paddin: 25px;
+  margin-bottom: 20px;
+}
+h1 {
+  color: #25a2c3;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  padding-inline: 50px;
+}
+button {
+  color: white;
+  background-color: #f04c2f;
+  padding-block: 15px;
+  padding-inline: 35px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: bold;
+}
+main {
+  text-align: center;
+}
+h4 {
+  color: #25a2c3;
+  padding: 10px;
+}
+main p {
+  padding: 20px;
+  padding-inline: 60px;
+}
+.computer {
+  width: 250px;
+  border-radius: 50%;
+  padding-block: 30px;
+}
+.div {
+  background-color: #f04c2f;
+  color: white;
+  border: none;
+}
+.div h2 {
+  font-size: 2.2rem;
+  padding-top: 80px;
+}
+.corsivo {
+  font-style: italic;
+  padding-inline: 5px;
+}
+.mario {
+  padding-bottom: 0;
+}
+.ceo {
+  font-size: 1rem;
+  padding-top: 0;
+  padding-bottom: 50px;
+}
+div img {
+  width: 400px;
+  margin-inline: auto;
+}
+
+.schede {
+  margin-inline: auto;
+  width: 400px;
+  border: 1px solid #dee1e3;
+  margin-block: 20px;
+}
+.p {
+  padding-inline: 10px;
+}
+div {
+}
+footer {
+  text-align: center;
+  background-color: #25a2c3;
+  color: white;
+  font-size: 0.7;
+}
+footer h2 {
+  font-size: 2rem;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.last {
+  font-size: 1rem;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+footer a {
+  color: white;
+}
+footer span {
+  text-decoration: underline;
+}
+.riga {
+  width: 210px;
+  margin-inline: auto;
+  border-top: 1px solid white;
+  margin-top: 30px;
+}
